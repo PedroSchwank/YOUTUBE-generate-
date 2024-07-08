@@ -1,0 +1,15 @@
+{
+    "name": "youtube-transcript-processor",
+    "description": "Extrai transcrição de vídeos do YouTube e gera metadados, FAQ e resumo.",
+    "version": "0.0.1",
+    "buildTag": "latest",
+    "environmentVariables": [
+      {
+        "name": "apify_api_5bRhPiqTFh74NxtFdB2VQOVeorisfi1DaGUo",
+        "value": "YOUR_OPENAI_API_KEY"
+      }
+    ],
+    "input": "./INPUT_SCHEMA.json",
+    "main": "main.py"
+  }
+  

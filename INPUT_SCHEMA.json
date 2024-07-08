@@ -1,0 +1,17 @@
+{
+    "title": "YouTube Video Processor Input",
+    "type": "object",
+    "properties": {
+      "youtubeVideoUrl": {
+        "title": "YouTube Video URL",
+        "type": "string",
+        "description": "URL do vídeo do YouTube para processar",
+        "editor": "textfield",
+        "example": "https://www.youtube.com/watch?v=xxxxxx"
+      }
+    },
+    "required": [
+      "youtubeVideoUrl"
+    ]
+  }
+  
