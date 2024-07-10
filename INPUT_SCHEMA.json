@@ -1,4 +1,6 @@
 {
+  "schemaVersion": 1,
+  "data": {
     "title": "YouTube Video Processor Input",
     "type": "object",
     "properties": {
@@ -14,4 +16,4 @@
       "youtubeVideoUrl"
     ]
   }
-  
+}
